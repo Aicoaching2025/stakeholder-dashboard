@@ -10,7 +10,13 @@ account generate?"* (revenue, regression) — and presents model performance,
 feature importance, the accuracy/speed trade-off, and a drift-monitoring preview,
 each paired with a plain-language takeaway.
 
+**🔗 Live demo: https://stakeholder-dashboard-nine.vercel.app/**
+
+[![live](https://img.shields.io/badge/demo-live%20on%20Vercel-0099CC?logo=vercel&logoColor=white)](https://stakeholder-dashboard-nine.vercel.app/)
 ![palette](https://img.shields.io/badge/palette-%23003366%20%23006699%20%230099CC%20%23B3C7E6%20%23FFFFFF-006699)
+![stack](https://img.shields.io/badge/stack-React%2018%20·%20Vite%205%20·%20Plotly-006699)
+
+![Stakeholder dashboard — executive KPIs and model leaderboard](docs/dashboard.png)
 
 ---
 
