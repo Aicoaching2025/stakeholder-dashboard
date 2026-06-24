@@ -1,0 +1,22 @@
+{
+  "name": "stakeholder-dashboard",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Interactive stakeholder dashboard for model performance, feature importance, and drift (App 3 of the data science portfolio).",
+  "scripts": {
+    "data": "python scripts/extract_data.py",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "plotly.js-dist-min": "^2.35.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^5.4.11"
+  }
+}
