@@ -1,7 +1,11 @@
 # Interactive Stakeholder Dashboard
 
+**🧭 Data Science Portfolio — App 3 of 4.** From raw data to a monitored production model, in four projects:
+
+[1 · Data Quality Engine](https://github.com/Aicoaching2025/data-quality-engine) · [2 · Model Comparison](https://github.com/Aicoaching2025/model-comparison-framework) · **3 · Stakeholder Dashboard** ([live ↗](https://stakeholder-dashboard-nine.vercel.app/)) · [4 · Monitoring Service](https://github.com/Aicoaching2025/model-monitoring-service) ([live ↗](https://churn-model-monitoring.onrender.com/))
+
 > App 3 of a 4-part data science portfolio. A React + Plotly dashboard that turns
-> the model outputs from [App 2](../model-comparison-framework) into something a
+> the model outputs from [App 2](https://github.com/Aicoaching2025/model-comparison-framework) into something a
 > **non-technical decision-maker** can read in three seconds and act on.
 
 It answers two business questions over the same customer base — *"Which customers
